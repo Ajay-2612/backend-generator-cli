@@ -5,6 +5,7 @@ const dependencies = {
     "nodemailer": ['nodemailer'],
     "express-server":['express']   
 };
-     "hello"
+
+// Minor formatting/comment update for clarity
+   "hello"
    export {dependencies};
-   
