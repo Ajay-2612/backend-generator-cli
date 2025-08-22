@@ -1,0 +1,7 @@
+runtime: "container"
+build:
+  dockerfile: "Dockerfile"
+  dockerBuildPath: "."
+startCommand:
+  type: "cli"
+  command: "node index.js"
