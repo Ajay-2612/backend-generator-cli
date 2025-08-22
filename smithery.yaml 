@@ -1,0 +1,5 @@
+name: backend-generator-cli
+type: cli
+entry: index.js
+language: node
+description: Command-line backend project generator
